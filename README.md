@@ -1,7 +1,7 @@
 # Julia Kerpel
 <hr>
 
-<img src="./65496248_c7ktf1fhxa.heic" style="width:50; margin:auto; display:block">
+<img src="./[65496248_c7ktf1fhxa.hei](https://media.licdn.com/dms/image/D5603AQEt3DTnKSPm5w/profile-displayphoto-shrink_800_800/0/1666199981364?e=2147483647&v=beta&t=ErHfIFb7SxDzymezKGTh6LTNigsjFN7DRmrWPGjnrTE)c" style="width:50; margin:auto; display:block">
 
 ## Hello! My name is Julia Kerpel. I am a first year at UC Berkeley, pursuing an engineering degree. I am also part of the fourth cohort of the [SEED Scholars Honors Program](https://seedscholars.berkeley.edu/home).
 <hr>
