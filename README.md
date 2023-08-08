@@ -5,3 +5,6 @@
 
 ### I am from Highland Park, IL. That is over 2,000 miles from Berkeley!
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+## I was Drum Major for my school's marching band last year. Check out one of our halftime shows!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qqOUsqmXY_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
