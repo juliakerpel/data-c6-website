@@ -4,6 +4,9 @@
 <hr>
 
 ### I am from Highland Park, IL. That is over 2,000 miles from Berkeley!
+from datascience import *
+import numpy as np
+import plotly.express as px
 import plotly
 print(plotly.offline.plot(fig, include_plotlyjs=False, output_type='div'))
 fig.show()
